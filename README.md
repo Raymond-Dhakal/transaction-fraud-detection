@@ -25,6 +25,11 @@ Features:
 
 Fraud rate ≈ 0.17%.
 
+The dataset is publicly available on Kaggle:
+
+[Credit Card Fraud Dataset (Kaggle)](https://www.kaggle.com/datasets/joebeachcapital/credit-card-fraud/data)
+
+After downloading, place the file `creditcard.csv` inside:
 ---
 
 ## Project Structure
